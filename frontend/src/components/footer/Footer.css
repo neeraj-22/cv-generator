@@ -1,0 +1,15 @@
+.footerContainer{
+    width:100%;
+    font-size: 1rem;
+    text-align: center;
+    color:white;
+    margin-top: 2rem;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.footerContainer p{
+color:white;
+text-decoration: none;
+padding-top: 1.5rem;
+}
